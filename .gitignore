@@ -29,3 +29,4 @@ node_modules
 
 # Editor specific configs
 .nvimrc
+.idea
